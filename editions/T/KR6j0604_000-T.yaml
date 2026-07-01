@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0604/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說施一切無畏陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1373.xml
+    old_id: T21n1373
+hash: sha256:268a38772c006ef95ef29d7c80ec6fd906736b1e50555181c36a128bf4ddf5ed
